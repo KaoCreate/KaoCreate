@@ -2,7 +2,7 @@
 
 Gameplay systems developer and Information Technology student building multiplayer Roblox experiences in Luau.
 
-[Portfolio](https://kaleb-morgan-dev.skyfane.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/kaleb-morgan-26925037a/) · [X / KaoCreate](https://x.com/KaoCreate)
+[LinkedIn](https://www.linkedin.com/in/kaleb-morgan-26925037a/) · [X / KaoCreate](https://x.com/KaoCreate)
 
 ## What I build
 
